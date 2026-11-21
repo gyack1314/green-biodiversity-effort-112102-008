@@ -1,0 +1,147 @@
+{
+  "synthetic": true,
+  "files": [
+    {
+      "path": "data/captures.parquet",
+      "rows": 4,
+      "columns": [
+        "device",
+        "boot",
+        "sequence",
+        "local_time",
+        "asset_hash"
+      ],
+      "sha256": "080d520a8d775c7f04f42d85026d004230583513ca4d164b1cdd6fcc372a7ada",
+      "stage": "original"
+    },
+    {
+      "path": "data/bursts.csv",
+      "rows": 1,
+      "columns": [
+        "protocol",
+        "valid_from",
+        "valid_to",
+        "gap_seconds"
+      ],
+      "sha256": "45741d4c7f70a9ac92056a540ce0bac1408f0296ac4e487bbba4f4e8d7cf7331",
+      "stage": "original"
+    },
+    {
+      "path": "data/clock.csv",
+      "rows": 1,
+      "columns": [
+        "device",
+        "boot",
+        "seq_from",
+        "seq_to",
+        "offset_seconds",
+        "revision"
+      ],
+      "sha256": "7c664ab7e579c7922c064617cbf2f0907cc9530c7c82def6d1c9dfc0719b9850",
+      "stage": "original"
+    },
+    {
+      "path": "data/deployments.csv",
+      "rows": 2,
+      "columns": [
+        "device",
+        "boot",
+        "site",
+        "region",
+        "round",
+        "start",
+        "end"
+      ],
+      "sha256": "6eb38f62d696a74d5bcd2534156f20af243e6c4ae0ddd579f89f2fca98f1e92b",
+      "stage": "original"
+    },
+    {
+      "path": "data/uptime.csv",
+      "rows": 1,
+      "columns": [
+        "device",
+        "boot",
+        "start",
+        "end"
+      ],
+      "sha256": "78a492e55978f12e875bdc6adf04d7b57253c30033edca0df89f78305d737884",
+      "stage": "original"
+    },
+    {
+      "path": "data/transects.csv",
+      "rows": 1,
+      "columns": [
+        "transect",
+        "site",
+        "round",
+        "protocol",
+        "km",
+        "hours"
+      ],
+      "sha256": "8caf7f710541d73222ed49dd91ce4a1e657e35a1039e1f6844effb50906e57ad",
+      "stage": "original"
+    },
+    {
+      "path": "data/identifications.jsonl",
+      "rows": 4,
+      "columns": [
+        "capture_key",
+        "confidence",
+        "opinion",
+        "status",
+        "supersedes",
+        "taxon"
+      ],
+      "sha256": "fb9a5f1d0e90ce89793c9e70e43cb74ece5c83f5216b0de13fce552a4a25264f",
+      "stage": "original"
+    },
+    {
+      "path": "data/taxonomy.jsonl",
+      "rows": 1,
+      "columns": [
+        "at",
+        "change",
+        "evidence_mapping",
+        "from_taxon",
+        "kind",
+        "to_taxa"
+      ],
+      "sha256": "5e2aaf35b49a0b89b9002db611e7193f19372f832862998b4f01d095d72b1f82",
+      "stage": "original"
+    },
+    {
+      "path": "data/protocols.json",
+      "rows": 1,
+      "columns": [
+        "P1",
+        "T1"
+      ],
+      "sha256": "066a04194d3b8f1828715f0495117bd2de03e2629df811206b5aaccceffd0680",
+      "stage": "original"
+    },
+    {
+      "path": "data/public_grid.csv",
+      "rows": 2,
+      "columns": [
+        "site",
+        "public_region"
+      ],
+      "sha256": "d4940a37b60e9386422359d034f2910bfc7bc409ac2bd32e099934aa102aebc6",
+      "stage": "original"
+    },
+    {
+      "path": "data/updates/clock.csv",
+      "rows": 1,
+      "columns": [
+        "device",
+        "boot",
+        "seq_from",
+        "seq_to",
+        "offset_seconds",
+        "revision"
+      ],
+      "sha256": "daed66987e8560ea6f7f2366a1ec1d84d98498f93d3d9c1eca90c8a9890811ca",
+      "stage": "supplement"
+    }
+  ]
+}

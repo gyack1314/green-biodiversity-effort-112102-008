@@ -1,0 +1,14 @@
+[
+  {
+    "source": "data/identifications.jsonl",
+    "source_key": "taxon",
+    "target": "data/taxonomy.jsonl",
+    "target_key": "from_taxon"
+  },
+  {
+    "source": "data/transects.csv",
+    "source_key": "site",
+    "target": "data/deployments.csv",
+    "target_key": "site"
+  }
+]

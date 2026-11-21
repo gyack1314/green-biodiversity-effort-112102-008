@@ -1,0 +1,12 @@
+{
+  "P1": {
+    "min_confidence": "0.9",
+    "allow_parent": true,
+    "effort_unit": "camera_hours"
+  },
+  "T1": {
+    "min_confidence": "0.9",
+    "allow_parent": false,
+    "effort_unit": "transect_km"
+  }
+}

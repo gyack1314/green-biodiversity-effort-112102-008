@@ -1,0 +1,2 @@
+protocol,valid_from,valid_to,gap_seconds
+P1,2026-01-01,2027-01-01,60
