@@ -92,7 +92,7 @@
         "supersedes",
         "taxon"
       ],
-      "sha256": "fb9a5f1d0e90ce89793c9e70e43cb74ece5c83f5216b0de13fce552a4a25264f",
+      "sha256": "2b0e818912c48268c9f09e42304405408716d6af50fc8d7bf3cd1ca507f2a758",
       "stage": "original"
     },
     {
@@ -106,7 +106,7 @@
         "kind",
         "to_taxa"
       ],
-      "sha256": "5e2aaf35b49a0b89b9002db611e7193f19372f832862998b4f01d095d72b1f82",
+      "sha256": "cbdd0e5761cb697b5bc5ac683739a14ce380bdc3c9be3929602e84397589db91",
       "stage": "original"
     },
     {
@@ -116,7 +116,7 @@
         "P1",
         "T1"
       ],
-      "sha256": "066a04194d3b8f1828715f0495117bd2de03e2629df811206b5aaccceffd0680",
+      "sha256": "c59d4d5d310e7e9a0fb51afec87226f159442389a168d522747b5dfab07ce424",
       "stage": "original"
     },
     {
