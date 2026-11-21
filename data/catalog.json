@@ -50,9 +50,10 @@
         "region",
         "round",
         "start",
-        "end"
+        "end",
+        "protocol"
       ],
-      "sha256": "6eb38f62d696a74d5bcd2534156f20af243e6c4ae0ddd579f89f2fca98f1e92b",
+      "sha256": "4dac2b3d716b50c58d2a6d11128afdb2ff32834fb3bef888ed3dfe88e08aee0e",
       "stage": "original"
     },
     {
