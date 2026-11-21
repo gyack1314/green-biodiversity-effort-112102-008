@@ -142,6 +142,16 @@
       ],
       "sha256": "daed66987e8560ea6f7f2366a1ec1d84d98498f93d3d9c1eca90c8a9890811ca",
       "stage": "supplement"
+    },
+    {
+      "path": "data/privacy.json",
+      "rows": 1,
+      "columns": [
+        "public_site_mapping",
+        "sensitive_taxa"
+      ],
+      "sha256": "44c3e852818cab0deb317714b99fa44d2a3c0a7f3f231f5d6294010c8916f670",
+      "stage": "original"
     }
   ]
 }

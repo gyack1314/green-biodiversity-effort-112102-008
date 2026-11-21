@@ -1,0 +1,7 @@
+{
+  "sensitive_taxa": [
+    "OLD",
+    "NEW-A"
+  ],
+  "public_site_mapping": "public_grid.csv"
+}
